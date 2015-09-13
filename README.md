@@ -4,10 +4,10 @@ GitHub in combinatie met de online editor [Dillinger.io](http://dillinger.io/) z
 
 **Denk eraan: de documenten zijn direct openbaar op GitHub!!**
 
-**Eerst een leeg GitHub bestand maken, dan openen in Dillinger**
+**Eerst een leeg GitHub *.md bestand maken, dan openen in Dillinger**
 
 ### GitHub Pagina maken
-##### Nieuw GitHub bestand maken
+##### Nieuw GitHub bestand maken: *.md
 Druk op de blauwe plus  
 ![](http://i.imgur.com/7n7aBc1.jpg)
 ##### Naam geven

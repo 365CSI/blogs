@@ -4,6 +4,7 @@ GitHub in combinatie met de online editor [Dillinger.io](http://dillinger.io/) z
 
 **Denk eraan: de documenten zijn direct openbaar op GitHub!!**
 
+**Eerst een leeg GitHub bestand maken, dan openen in Dillinger**
 
 ### GitHub Pagina maken
 ##### Nieuw GitHub bestand maken

@@ -12,7 +12,7 @@ Druk op de blauwe plus
 ![](http://i.imgur.com/7n7aBc1.jpg)
 ##### Naam geven
 ![](http://i.imgur.com/e3ljII6.jpg)
-##### Bestand opslaag
+##### Bestand opslaan
 ![](http://i.imgur.com/FQQPYGi.jpg)
 
 ### Edit met Online Editor Dillinger.io

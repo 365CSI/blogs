@@ -18,7 +18,7 @@ If you are one of the early explorers, you have seen it happen before in 2003, 2
 
 #### First knowledge is ancient knowledge
 
-Alas the way Internet the works makes this *First Knowledge* stick forever and be perpetuated by new followers.
+Alas the way Internet the works makes this *First Knowledge* stick forever and be perpetuated by new followers.  
 Popular, but old*fashioned* blogposts get more popular over time.  
 They are not rewritten with new finds and insights, like The History of Discovery of the Americas 
 
@@ -53,6 +53,6 @@ MVPs may have seen the picture first, but you may question if they understand th
 #### Young knowlegde
 We should embrace new knowledge, new insights, but above all **new people**.  
 Hire that young gun who has never seen SharePoint 2013 but has the Agile mindset.  
-They will take us to the stars, not the MVP who guides his *ship* like it is 1492 
+They will take us to the stars, not the MVP who *runs his ship* like it is 1492 
 
 ![](http://guardianlv.com/wp-content/uploads/2014/05/Sunken-Ship-Could-Be-the-Remains-of-the-Santa-Maria.jpg)
